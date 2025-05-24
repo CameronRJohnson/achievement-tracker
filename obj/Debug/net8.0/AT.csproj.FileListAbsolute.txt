@@ -1,0 +1,14 @@
+/Users/cameronjohnson/Documents/School/Programming/achievement-tracker/bin/Debug/net8.0/AT
+/Users/cameronjohnson/Documents/School/Programming/achievement-tracker/bin/Debug/net8.0/AT.deps.json
+/Users/cameronjohnson/Documents/School/Programming/achievement-tracker/bin/Debug/net8.0/AT.runtimeconfig.json
+/Users/cameronjohnson/Documents/School/Programming/achievement-tracker/bin/Debug/net8.0/AT.dll
+/Users/cameronjohnson/Documents/School/Programming/achievement-tracker/bin/Debug/net8.0/AT.pdb
+/Users/cameronjohnson/Documents/School/Programming/achievement-tracker/obj/Debug/net8.0/AT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cameronjohnson/Documents/School/Programming/achievement-tracker/obj/Debug/net8.0/AT.AssemblyInfoInputs.cache
+/Users/cameronjohnson/Documents/School/Programming/achievement-tracker/obj/Debug/net8.0/AT.AssemblyInfo.cs
+/Users/cameronjohnson/Documents/School/Programming/achievement-tracker/obj/Debug/net8.0/AT.csproj.CoreCompileInputs.cache
+/Users/cameronjohnson/Documents/School/Programming/achievement-tracker/obj/Debug/net8.0/AT.dll
+/Users/cameronjohnson/Documents/School/Programming/achievement-tracker/obj/Debug/net8.0/refint/AT.dll
+/Users/cameronjohnson/Documents/School/Programming/achievement-tracker/obj/Debug/net8.0/AT.pdb
+/Users/cameronjohnson/Documents/School/Programming/achievement-tracker/obj/Debug/net8.0/AT.genruntimeconfig.cache
+/Users/cameronjohnson/Documents/School/Programming/achievement-tracker/obj/Debug/net8.0/ref/AT.dll

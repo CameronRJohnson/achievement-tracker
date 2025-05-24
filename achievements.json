@@ -1,0 +1,19 @@
+[
+  {
+    "Title": "Complete Minecraft",
+    "Goals": [
+      {
+        "Description": "Beat the end boss",
+        "IsCompleted": true
+      },
+      {
+        "Description": "Have fun",
+        "IsCompleted": true
+      },
+      {
+        "Description": "explore",
+        "IsCompleted": false
+      }
+    ]
+  }
+]
